@@ -1,0 +1,17 @@
+Please find below SQL Project instructions:
+
+You have to submit SQL file : 
+MySQL file( .SQL): In this, you need to submit all the answers to all the questions for in a sequential manner. You will be evaluated for all the questions based on this file. (Rename the file before submission)
+Any assignment found copied/ plagiarized with another person will not be graded and marked as zero.
+Please ensure timely submission as a post-deadline assignment will not be accepted.
+Project Problem Statement:
+
+You are hired by a chain of online retail stores “Reliant retail limited”. They provided you with “orders” database and seek answers to the following queries as the results from these queries will help the company in making data-driven decisions that will impact the overall growth of the online retail store.
+
+All the questions comes under MYSQL.sql and the queries should be executed in MYSQL.
+
+(SQL Script to be used - orders.sql)
+
+Note: In case the file gets open in the browser, Please copy the entire text(including comment) and paste it on MySQL Workbench. Execute all the commands to create a database schema.
+
+In case, you are able to download the file, please use MySQL Workbench, File>open SQL Script>orders.SQL and then execute all the statements to create a database schema.
